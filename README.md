@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yumna! I am 17 years old and a current running start student at Bellevue College.
+- 👋 Hi, I’m Yumna! I am 18 years old and a current running start student at Bellevue College.
 - 👀 I’m interested in learning more about computer science, and hope to specialize in CyberSec :)
 - 🌱 I’m currently learning java basics! I have taken two introductory classes for java.
 
