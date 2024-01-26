@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yumna! I am 18 years old and a current running start student at Bellevue College.
-- 👀 I’m interested in learning more about computer science, and hope to specialize in CyberSec :)
-- 🌱 I’m currently learning java basics! I have taken two introductory classes for java.
+- 👋 Hi, I’m Yumna! I am 19 years old and an undergraduate student at the University of Texas - Dallas.
+- 👀 I’m currently pursuing a degree in Computer Science, and hope to specialize in CyberSec :)
 
 <!---
 khanyumna/khanyumna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
