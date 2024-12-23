@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Yumna! I am 19 years old and an undergraduate student at the University of Texas - Dallas.
-- 👀 I’m currently pursuing a degree in Computer Science, and hope to specialize in CyberSec :)
+## Hi there! I'm Yumna Khan
+Welcome to my GitHub! I'm a Business Analytics and Artificial Intelligence major with a Computer Science minor at UTDallas, passionate about combining data, technology, and creativity to solve problems.
 
-<!---
-khanyumna/khanyumna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 
+🎓 Education: Sophomore at UT Dallas, majoring in Business Analytics and minoring in Computer Science.
+
+💼 Career Interests: Data analytics, machine learning, and business intelligence.
+
+🌱 Currently Learning: Advanced machine learning techniques, time-series forecasting, and interactive visualization tools.
+
+🚀 Career Goal: To help organizations make data-driven decisions using innovative analytics and AI solutions. 
