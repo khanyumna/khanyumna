@@ -1,7 +1,7 @@
-## Hi there! I'm Yumna Khan 🌷
+## 🌷 Hi there! I'm Yumna Khan
 Welcome to my GitHub! I'm a Business Analytics and Artificial Intelligence major with a Computer Science minor at UT Dallas, passionate about combining data, technology, and creativity to solve real-world problems.
 
-## About Me 
+## 👩‍💻 About Me 
 🎓 Education: Sophomore at UT Dallas | B.S. in Business Analytics & A.I. | Minor in Computer Science
 🧠 Currently Learning: Time-series forecasting, machine learning model evaluation, and data storytelling with dashboards.
 💼 Experience Highlights:
