@@ -3,6 +3,7 @@ Welcome to my GitHub! I'm a Business Analytics and Artificial Intelligence major
 
 ## 👩‍💻 About Me 
 🎓 Education: Sophomore at UT Dallas | B.S. in Business Analytics & A.I. | Minor in Computer Science
+
 🧠 Currently Learning: Time-series forecasting, machine learning model evaluation, and data storytelling with dashboards.
 💼 Experience Highlights:
   - Built an AI-powered healthcare chatbot using Python and GPT API with 70%+ accuracy.
